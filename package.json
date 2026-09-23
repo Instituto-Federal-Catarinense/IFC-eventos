@@ -1,0 +1,21 @@
+{
+  "name": "ifc-eventos",
+  "version": "1.0.0",
+  "description": "Sistema web institucional multicampi para gestão integrada de eventos acadêmico-científicos",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/Instituto-Federal-Catarinense/IFC-eventos"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
